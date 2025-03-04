@@ -5,7 +5,7 @@ In this exercise you will test your knowledge on creating comment and printing b
 
 ## Instructions
 1.	In the file, make a simple single-line comment explaining your line of code.
-2.	Then print exactly in the console including all the characters `"That's Hello, World!".`
+2.	Then print exactly in the console including all the characters
 3.	Then print `100`.
 4.	Finally print the result of the expression `100 - 90`.
 
